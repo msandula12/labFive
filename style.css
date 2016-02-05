@@ -17,6 +17,11 @@ h1 {
 
 div {
 	width: 700 px;
+	height: 100%;
+	padding: 20px;
+	background-color: #cd0027;
+	border-radius: 20px;
+	box-shadow: 3px 3px 15px black;
 }
 
 input, button {
